@@ -1,1 +1,1 @@
-C:\Java\jdk1.8.0\jre\..\bin\javadoc.exe @options @argfile
+C:\Java\jdk1.8.0\bin\javadoc.exe @options @argfile

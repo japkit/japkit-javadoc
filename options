@@ -18,6 +18,36 @@
 'Japkit Tests 1.22-SNAPSHOT API'
 -linkoffline
 'https://docs.oracle.com/javase/8/docs/api' 'C:/Java/github/japkit/japkit-test/target/javadoc-bundle-options'
+-tag
+"japkit.initBeforeIteratorCode:a:@japkit.initBeforeIteratorCode"
+-tag
+"japkit.initCode:a:@japkit.initCode"
+-tag
+"japkit.initSeparator:a:@japkit.initSeparator"
+-tag
+"japkit.initAfterIteratorCode:a:@japkit.initAfterIteratorCode"
+-tag
+"japkit.initEmptyIteratorCode:a:@japkit.initEmptyIteratorCode"
+-tag
+"japkit.bodyBeforeIteratorCode:a:@japkit.bodyBeforeIteratorCode"
+-tag
+"japkit.bodyCode:a:@japkit.bodyCode"
+-tag
+"japkit.bodySeparator:a:@japkit.bodySeparator"
+-tag
+"japkit.bodyAfterIteratorCode:a:@japkit.bodyAfterIteratorCode"
+-tag
+"japkit.bodyEmptyIteratorCode:a:@japkit.bodyEmptyIteratorCode"
+-tag
+"japkit.beforeIteratorCode:a:@japkit.beforeIteratorCode"
+-tag
+"japkit.code:a:@japkit.code"
+-tag
+"japkit.separator:a:@japkit.separator"
+-tag
+"japkit.afterIteratorCode:a:@japkit.afterIteratorCode"
+-tag
+"japkit.emptyIteratorCode:a:@japkit.emptyIteratorCode"
 -use
 -version
 -windowtitle
