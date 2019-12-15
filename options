@@ -1,0 +1,24 @@
+-classpath
+'C:/java/maven/repository/com/github/japkit/japkit-annotations/1.22-SNAPSHOT/japkit-annotations-1.22-SNAPSHOT.jar;C:/java/maven/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar'
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'C:/Java/github/japkit/japkit-test/src/main/java;C:/Java/github/japkit/japkit-test/target/src/main/generated-sources'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Java/github/japkit/japkit-test/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Japkit Tests 1.22-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Java/github/japkit/japkit-test/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Japkit Tests 1.22-SNAPSHOT API'
