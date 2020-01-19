@@ -1,5 +1,5 @@
 -classpath
-'C:/java/maven/repository/com/github/japkit/japkit-annotations/1.22-SNAPSHOT/japkit-annotations-1.22-SNAPSHOT.jar;C:/java/maven/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar'
+'C:/java/maven/repository/com/github/japkit/japkit-annotations/1.24-SNAPSHOT/japkit-annotations-1.24-SNAPSHOT.jar;C:/java/maven/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar;C:/java/maven/repository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar'
 -encoding
 'UTF-8'
 -private
@@ -7,15 +7,15 @@
 'C:/Java/github/japkit/japkit-test/src/main/java;C:/Java/github/japkit/japkit-test/target/src/main/generated-sources'
 -author
 -bottom
-'Copyright &#169; 2019. All rights reserved.'
+'Copyright &#169; 2020. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/Java/github/japkit/japkit-test/target/apidocs'
+'C:/Java/github/japkit/japkit-test/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
-'Japkit Tests 1.22-SNAPSHOT API'
+'Japkit Tests 1.24-SNAPSHOT API'
 -linkoffline
 'https://docs.oracle.com/javase/8/docs/api' 'C:/Java/github/japkit/japkit-test/target/javadoc-bundle-options'
 -tag
@@ -51,4 +51,4 @@
 -use
 -version
 -windowtitle
-'Japkit Tests 1.22-SNAPSHOT API'
+'Japkit Tests 1.24-SNAPSHOT API'
