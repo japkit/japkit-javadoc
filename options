@@ -16,8 +16,6 @@
 'UTF-8'
 -doctitle
 'Japkit Tests 1.24-SNAPSHOT API'
--linkoffline
-'https://docs.oracle.com/javase/8/docs/api' 'C:/Java/github/japkit/japkit-test/target/javadoc-bundle-options'
 -tag
 "japkit.initBeforeIteratorCode:a:@japkit.initBeforeIteratorCode"
 -tag

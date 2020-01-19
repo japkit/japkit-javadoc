@@ -1,1 +1,1 @@
-C:\Java\jdk1.8.0\jre\..\bin\javadoc.exe @options @argfile
+C:\Java\AdoptOpenJDK\jdk-13.0.0.33-hotspot\bin\javadoc.exe @options @packages
